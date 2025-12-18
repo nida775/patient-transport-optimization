@@ -26,4 +26,5 @@ This approach aims to double the service capacity without increasing the budget.
 - **Time Management:** Reduced waiting times for patients and planned workload for staff.
 
 ## 👥 Contributors
-- **Nida Ayşin Çakıroğlu** 
+- **Nida Ayşin Çakıroğlu**
+- **Ahmet İsar Baş**
