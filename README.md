@@ -1,5 +1,3 @@
-# patient-transport-optimization
-A Python-based route optimization system designed for municipal patient transport services using Nearest Neighbor Algorithm.
 # Patient Transport Optimization System 🚑
 
 A Python-based logistics solution designed to optimize free municipal patient transport services. This project focuses on increasing the number of patients served while minimizing fuel consumption and planning staff workload effectively.
